@@ -5,14 +5,14 @@
 		Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	--font-mono: 'Fira Mono', monospace;
 	--pure-white: #ffffff;
-	--primary-color: #b9c6d2;
-	--secondary-color: #d0dde9;
-	--tertiary-color: #edf0f8;
-	--accent-color: #ff3e00;
+	--primary-color: #f79ff7;
+	--secondary-color: #d8acd2;
+	--tertiary-color: #cecdd2;
+	--accent-color: #ff00f2;
 	--heading-color: rgba(0, 0, 0, 0.7);
 	--text-color: #444444;
 	--background-without-opacity: rgba(255, 255, 255, 0.7);
-	--column-width: 42rem;
+	--column-width: 80vw;
 	--column-margin-top: 4rem;
 }
 
